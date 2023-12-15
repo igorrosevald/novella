@@ -1,0 +1,45 @@
+{
+  "default":{
+    "hp":100,
+    "at":10,
+    "poses":{
+    
+    },
+    "name":"ты"
+  },
+
+  "story":{
+    "hp":100,
+    "at":10,
+    "poses":{
+    
+    },
+    "name":""
+  },
+
+  "alice":{
+    "at":10,
+    "hp":100,
+    "poses":{
+      "default":"img/Character2_face1.png",
+      "happy":"img/Character2_face2.png"
+    },
+    "name":"алиса"
+  },
+
+  "grid":{
+    "poses":{
+      "default":"img/goblin 2-variant-00.png",
+      "happy":"img/goblin 2-variant-00.png"
+    },
+    "name":"грид"
+  },
+
+  "bobby":{
+    "poses":{
+      "default":"img/Character2_face1.png",
+      "happy":"img/Character2_face2.png"
+    },
+    "name":"Кристина"
+  }
+}
